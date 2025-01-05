@@ -98,15 +98,6 @@ void gamePlay();
 
 bool isItAllLetters(string word);
 
-
-
-
-
-
-
-
-
-
 int main() {
 
     SetConsoleCP(CP_UTF8);
@@ -117,19 +108,6 @@ int main() {
     gamePlay();
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 void setTabs(int tabCount) {
 
